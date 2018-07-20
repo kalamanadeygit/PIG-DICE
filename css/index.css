@@ -149,6 +149,7 @@ h3, p, li {text-transform: uppercase;}
     margin: 0 auto;
     padding: 12px;
     text-align: center;
+    border-radius:50%;
 }
 
 .player-current-label {
@@ -156,6 +157,7 @@ h3, p, li {text-transform: uppercase;}
     margin-bottom: 10px;
     font-size: 12px;
     color: #222;
+    border-radius:50%;
 }
 
 .player-current-score {

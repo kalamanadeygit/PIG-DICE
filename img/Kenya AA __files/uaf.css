@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'ge_dinar';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/170123065359GE_Dinar.eot');
+				src: local('ge_dinar'), url('/wp-content/uploads/useanyfont/170123065359GE_Dinar.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/170123065359GE_Dinar.woff') format('woff');
+			}
+            
+            .ge_dinar{font-family: 'ge_dinar' !important;}
+            
+		
